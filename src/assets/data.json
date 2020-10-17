@@ -1,0 +1,109 @@
+{
+  "markers": [
+    { 
+      "name": "Casa da Musica",
+      "coords": [
+        41.158883,
+        -8.6306942
+      ]
+    },
+    { 
+      "name": "Museo Nacional Soares dos Reis",
+      "coords": [
+        41.1477147,
+        -8.621639
+      ]
+    },
+    { 
+      "name": "Catedral de Oporto",
+      "coords": [
+        41.142855,
+        -8.611114
+      ]
+    },
+    { 
+      "name": "Ponte Don Luis I",
+      "coords": [
+        41.1399589,
+        -8.6094485
+      ]
+    },
+    { 
+      "name": "Livraria Lello",
+      "coords": [
+        41.1469055,
+        -8.6147746
+      ]
+    },
+    { 
+      "name": "Igreja Dos Clérigos",
+      "coords": [
+        41.1458384,
+        -8.6139938
+      ]
+    },
+    { 
+      "name": "Estação de São Bento",
+      "coords": [
+        41.1456657,
+        -8.6105306
+      ]
+    },
+    { 
+      "name": "Palácio da Bolsa",
+      "coords": [
+        41.1413772,
+        -8.6156725
+      ]
+    },
+    { 
+      "name": "Praça Ribeira",
+      "coords": [
+        41.1406379,
+        -8.6130974
+      ]
+    },
+    { 
+      "name": "Cais da Ribeira",
+      "coords": [
+        41.1406359,
+        -8.6111831
+      ]
+    },
+    { 
+      "name": "Museo de Arte Contemporáneo de Serralves",
+      "coords": [
+        41.1598058,
+        -8.659615
+      ]
+    },
+    { 
+      "name": "Mercado do Bolhão",
+      "coords": [
+        41.1492672,
+        -8.6074892
+      ]
+    },
+    { 
+      "name": "SEA LIFE Centre Porto",
+      "coords": [
+        41.1686752,
+        -8.6874729
+      ]
+    },
+    { 
+      "name": "Centro Português de Fotografia",
+      "coords": [
+        41.1445837,
+        -8.615825
+      ]
+    },
+    { 
+      "name": "Miradouro da Vitoria",
+      "coords": [
+        41.1431633,
+        -8.6158122
+      ]
+    }
+  ]
+}
